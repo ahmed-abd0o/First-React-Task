@@ -1,0 +1,8 @@
+a{
+    padding-inline: 1rem;
+    padding-block: .5rem;
+    border-radius: .8rem;
+}
+.active{
+    background-color: teal;
+}
